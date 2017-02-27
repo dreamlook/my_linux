@@ -24,7 +24,7 @@
 
 ![][修改root密码]
 
-* :snake这时就可以用普通用户和root用户登录linux了
+* :snake:这时就可以用普通用户和root用户登录linux了
 
 * 此外还有一点:
 
